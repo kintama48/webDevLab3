@@ -1,12 +1,21 @@
 Lab – 03: Responsive Websites and Bootstrap
+
 Objective:
+
 • Learning the concept of responsive website design.
+
 • Practicing how to use media queries.
+
 • Using Bootstrap.
+
 Submission:
+
 • Submission of your work must be made to your GitHub repository.
+
 • Submit a notepad file with the link of your repository.
+
 • Emailed submissions will be NOT accepted.
+
 • Plagiarized work will not be marked
 
 Task 1: Create an HTML file named “mediaQueries.html” and made the following
