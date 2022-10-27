@@ -1,0 +1,57 @@
+/*
+231485698
+TASK 2
+*/
+
+
+@media only screen and (max-width: 500px) {
+    #large-medium {
+        display: none;
+    }
+
+    #small {
+        display: none;
+    }
+}
+
+
+@media only screen and (min-width: 501px) and (max-width: 700px) {
+    #large-medium {
+        display: none;
+    }
+
+    #extra-small {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 701px) and (max-width: 1000px) {
+    #small {
+        display: none;
+    }
+
+    #extra-small {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 1001px) and (max-width: 1500px) {
+    #small {
+        display: none;
+    }
+
+    #extra-small {
+        display: none;
+    }
+}
+
+
+@media only screen and (min-width: 1501px) {
+    #small {
+        display: none;
+    }
+
+    #extra-small {
+        display: none;
+    }
+}

@@ -1,0 +1,19 @@
+/*
+231485698
+TASK 3
+*/
+
+#field {
+    background-color: darkgreen;
+    border: 3px solid black;
+    text-align: left;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+}
+
+#h1 {
+    font-size: 20px;
+}
+
